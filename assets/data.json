@@ -1,0 +1,34 @@
+[
+
+{ 
+    "application": "Quake 3 Arena",
+    "type": "Game",
+    "playable": true
+},
+{  
+    "application": "Unreal Tournament 99",
+    "type": "Game",
+    "playable": true
+},
+{  
+    "application": "Doom 3",
+    "type": "Game",
+    "playable": true
+},
+{  
+    "application": "Doom (1993)",
+    "type": "Game",
+    "playable": true
+},
+{  
+    "application": "Doom 2",
+    "type": "Game",
+    "playable": true
+},
+{
+    "application": "Adobe Photoshop",
+    "type": "Other",
+    "playable": true
+}
+
+]
