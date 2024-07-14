@@ -2,33 +2,27 @@
 
 { 
     "application": "Quake 3 Arena",
-    "type": "Game",
-    "playable": true
+    "type": "Game"
 },
 {  
     "application": "Unreal Tournament 99",
-    "type": "Game",
-    "playable": true
+    "type": "Game"
 },
 {  
     "application": "Doom 3",
-    "type": "Game",
-    "playable": true
+    "type": "Game"
 },
 {  
     "application": "Doom (1993)",
-    "type": "Game",
-    "playable": true
+    "type": "Game"
 },
 {  
     "application": "Doom 2",
-    "type": "Game",
-    "playable": true
+    "type": "Game"
 },
 {
     "application": "Adobe Photoshop",
-    "type": "Other",
-    "playable": true
+    "type": "Other"
 }
 
 ]
